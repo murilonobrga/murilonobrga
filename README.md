@@ -1,4 +1,4 @@
-# Olá, eu sou o Murilo 👋
+# Olá, eu sou o Murilo 
 
 <a href="https://github.com/murilonobrga">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&width=480&lines=Desenvolvedor+Full+Stack;Java+%2B+Spring+Boot+%2B+Angular;Web+Academy+-+Motorola;Direto+de+Rio+Branco%2C+Acre+%F0%9F%8C%B3" alt="Texto animado" />
